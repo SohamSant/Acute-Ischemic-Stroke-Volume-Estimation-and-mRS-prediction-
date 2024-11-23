@@ -11,5 +11,5 @@ The code in this repository will not work without the `model.h5` files required 
 
 ## Demo Video
 
-Watch the demo video below to understand how the pipeline works: mRS Prediction Video.mp4
+Watch the demo video below to understand how the pipeline works: `mRS Prediction Video.mp4`
 
