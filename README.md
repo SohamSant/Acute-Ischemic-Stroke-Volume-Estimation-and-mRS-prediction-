@@ -1,4 +1,3 @@
-
 # Acute Ischemic Stroke Lesions Volume Estimation and mRS Prediction
 
 This repository contains a machine learning pipeline for analyzing MRI brain images to estimate the volume of acute ischemic stroke lesions and predict the modified Rankin Scale (mRS), a measure of stroke severity and functional outcomes.
@@ -18,4 +17,3 @@ Watch the demo video below to understand how the pipeline works:
   <source src="mRS Prediction Video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
