@@ -14,3 +14,8 @@ The code in this repository will not work without the `model.h5` files required 
 Watch the demo video below to understand how the pipeline works:
 
 [![Watch the video](https://img.youtube.com/vi/koc4oUvSFFY/0.jpg)](https://youtu.be/koc4oUvSFFY)
+
+## Contributors
+
+- [Soham Sant](https://github.com/SohamSant)
+- [Aditya Ghadge](https://github.com/AdiGhadge)
